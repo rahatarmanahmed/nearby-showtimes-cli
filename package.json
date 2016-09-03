@@ -5,7 +5,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "author": "Rahat Ahmed",
-  "repository": "rahatarmanahmed/nearby-showtimes",
+  "repository": "rahatarmanahmed/nearby-showtimes-cli",
   "bin": {
     "showtimes": "lib/index.js"
   },
